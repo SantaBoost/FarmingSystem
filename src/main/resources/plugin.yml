@@ -1,0 +1,4 @@
+name: FarmingSystem
+version: '${project.version}'
+main: me.santa.farming.FarmingSystem
+api-version: 1.19
